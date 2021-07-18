@@ -1,0 +1,19 @@
+{
+  "name": "js-graph",
+  "version": "1.0.0",
+  "description": "- Consists of Nodes/Vertices and Edges   - Node is an object containing a `value` and references to other Nodes.   - Edge is a connection between nodes. - Used to represent networks of interconnected objects.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
